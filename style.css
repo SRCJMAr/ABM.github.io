@@ -1,0 +1,21 @@
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+body {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: darkorchid;
+}
+
+.curve {
+    border-radius: 2cm;
+}
+
+p {
+    font-size: x-large;
+    color: white;
+}
+
+button:hover {
+    background-color: rgb(255, 196, 0);
+}
